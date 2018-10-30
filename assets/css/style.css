@@ -6,7 +6,7 @@ body {
     width: 100%;
     border-bottom: solid #dddddd 3px;
     background-color: #ffffff;
-
+    z-index: 99;
     margin-bottom: 0;
 }
 .links {
