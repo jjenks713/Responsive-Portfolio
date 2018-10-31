@@ -178,6 +178,27 @@ input[type="reset"] {
     font-size: 14px;
     color: #777777;
 }
+@media screen and (max-width: 1300px) {
+    header {
+        /* color: green; */
+    }
+    .banner {
+        padding-bottom: 0px;
+    }
+    .logo {
+        margin-left: 5%;
+    }
+    .links {
+        margin-right: 5%
+    }
+    .paragraph {
+        width: 75%;
+    }
+    .images img {
+        height: 100%;
+        width: 100%
+    }    
+}
 @media screen and (max-width: 980px) {
     header {
         /* color: green; */
