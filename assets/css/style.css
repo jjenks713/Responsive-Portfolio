@@ -185,6 +185,36 @@ input[type="reset"] {
     .banner {
         padding-bottom: 0px;
     }
+    .logo {
+        margin-left: 5%;
+    }
+    .links {
+        margin-right: 5%
+    }
+    .paragraph {
+        width: 75%;
+    }
+    .images img {
+        height: 100%;
+        width: 100%
+    }    
+}
+@media screen and (max-width: 840px) {
+    header {
+        /* color: green; */
+    }
+    .banner {
+        padding-bottom: 0px;
+    }
+    .logo {
+        margin-left: 5%;
+    }
+    .links {
+        margin-right: 5%
+    }
+    .paragraph {
+        width: 85%;
+    }
     .images img {
         height: 100%;
         width: 100%
@@ -208,7 +238,7 @@ input[type="reset"] {
         width: 300px;
     }
     .paragraph {
-        width: 85%;
+        width: 100%;
         margin: 20px 20px 20px 20px;
     }
     .grid-container {
